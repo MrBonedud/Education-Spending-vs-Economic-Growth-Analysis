@@ -1,0 +1,13 @@
+term,Model_1,Model_2
+Intercept,"4.935***
+(0.155)","4.938***
+(0.246)"
+Education spending (% of GDP),"-0.331***
+(0.034)","-0.334***
+(0.045)"
+Unemployment rate (%),,"-0.066***
+(0.014)"
+Inflation rate (%),,"-0.005
+(0.008)"
+Population growth (%),,"0.318***
+(0.055)"
